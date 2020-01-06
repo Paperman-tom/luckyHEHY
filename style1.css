@@ -1,0 +1,27 @@
+img{
+    width: 171px;
+    height: 180px;
+    margin: 3px auto;
+    cursor: auto;
+}
+a{
+    text-decoration: none;
+    color: #555555;
+}
+a:hover{
+    text-decoration: none;
+    color: #424242;
+}
+.active{
+    border: solid 3px cornflowerblue;
+}
+footer{
+    padding: 20px;
+    width:initial;
+    min-height: 100px;
+    bottom: 0;
+    background-color: #dae1e8;
+    text-align: center;
+    font:20px  "等线 Light";
+    color: #5d5d5d;
+}
